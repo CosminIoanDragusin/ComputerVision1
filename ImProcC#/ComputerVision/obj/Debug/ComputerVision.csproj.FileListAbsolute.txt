@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\bin\Debug\ComputerVision.exe
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\bin\Debug\ComputerVision.pdb
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\bin\Debug\ImageUtil.dll
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\obj\Debug\ComputerVision.MainForm.resources
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\obj\Debug\ComputerVision.Properties.Resources.resources
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\obj\Debug\ComputerVision.csproj.GenerateResource.cache
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\obj\Debug\ComputerVision.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\obj\Debug\ComputerVision.csproj.CopyComplete
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\obj\Debug\ComputerVision.exe
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\obj\Debug\ComputerVision.pdb
+C:\Users\user\Desktop\gellart\ImProcC#\ComputerVision\obj\Debug\ComputerVision.csproj.AssemblyReference.cache
